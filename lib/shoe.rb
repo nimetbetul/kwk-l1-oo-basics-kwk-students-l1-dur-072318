@@ -1,3 +1,3 @@
 # Make your shoe class here!
 
-class 
+class shoe 
