@@ -9,4 +9,7 @@ def size
   @size=size
 end
 
-def 
+def color 
+  @color=color
+end
+end 
