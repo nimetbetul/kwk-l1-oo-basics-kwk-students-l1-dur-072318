@@ -4,3 +4,5 @@ class Shoe
   def initialize(model)
 end
 
+def size 
+  @
