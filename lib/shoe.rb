@@ -15,3 +15,4 @@ end
 
 end 
 shoe=Shoe.new
+book.size
