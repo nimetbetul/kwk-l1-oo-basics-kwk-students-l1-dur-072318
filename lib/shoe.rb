@@ -14,3 +14,4 @@ def color
 end
 
 end 
+shoe=Shoe.new
